@@ -7,16 +7,16 @@
 
 
 // WiFi credentials
-const char* ssid = "pial";         // Your WiFi SSID
-const char* password = "12345678"; // Your WiFi password
+const char* ssid = "xx";         // Your WiFi SSID
+const char* password = "xxxxx"; // Your WiFi password
 
 
 // Telegram Bot Token (replace with your bot's token)
-#define BOT_TOKEN "8290366140:AAE6LAtfoH5CL8F1atJ9mT0Ox-EzDIIIddk"
+#define BOT_TOKEN "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 
 // Chat ID (replace with your chat ID)
-#define CHAT_ID "1945561468"
+#define CHAT_ID "1234xxxx4"
 
 
 // Pin Definitions
